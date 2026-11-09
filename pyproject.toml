@@ -7,6 +7,7 @@ dependencies = [
     "ipykernel",
     "jupyterlab",
     "matplotlib",
+    "ruff",
     "torch",
     "torchvision",
     "torchaudio",
