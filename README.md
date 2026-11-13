@@ -13,6 +13,6 @@ uv run python -c "import torch; print(torch.__version__); print(torch.version.cu
 ```
 
 ```powershell
-ruff check --fix my_notebook.ipynb
-ruff format my_notebook.ipynb
+ruff check --fix .
+ruff format .
 ```
